@@ -1,0 +1,58 @@
+{
+  "status": true,
+  "type": "chart",
+  "id": "123",
+  "title": "Weekly Top Artists: Global",
+  "description": "Your weekly update of the most played artists",
+  "date": "2022-07-07",
+  "artists": [
+    {
+      "type": "artist",
+      "id": "5IS4dQ9lDW01IY1buR7bW7",
+      "shareUrl": "https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7",
+      "visuals": {
+        "avatar": [
+          {
+            "url": "https://i.scdn.co/image/ab6761610000e5ebf6145483a8353f6ae859feac",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      "chartData": {
+        "currentRank": 1,
+        "previousRank": 1,
+        "peakRank": 1,
+        "peakDate": "2021-10-28",
+        "entryRank": 2,
+        "entryDate": "2021-10-21",
+        "appearancesOnChart": 38,
+        "consecutiveAppearancesOnChart": 38
+      }
+    },
+    {
+      "type": "artist",
+      "id": "063CKq9soidxbrMh1QFjG4",
+      "shareUrl": "https://open.spotify.com/artist/063CKq9soidxbrMh1QFjG4",
+      "visuals": {
+        "avatar": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735210e66474e1f45dcd1ba139",
+            "width": 640,
+            "height": 640
+          }
+        ]
+      },
+      "chartData": {
+        "currentRank": 1,
+        "previousRank": 1,
+        "peakRank": 1,
+        "peakDate": "2021-10-28",
+        "entryRank": 2,
+        "entryDate": "2021-10-21",
+        "appearancesOnChart": 38,
+        "consecutiveAppearancesOnChart": 38
+      }
+    }
+  ]
+}
