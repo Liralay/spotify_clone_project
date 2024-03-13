@@ -85,6 +85,7 @@ def top_artists():
         artist_info = [{"name": "Unknown", "id":"0", "url":"ya.ru"}]
     return artist_info
 
+@login_required(login_url='login')
 def index(request):
     artists_info = top_artists()
     
